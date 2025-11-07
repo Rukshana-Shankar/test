@@ -1,0 +1,5 @@
+{
+  "name": "Urban Development Dashboard",
+  "description": "A responsive and visually appealing dashboard mimicking a Power BI report on urban development metrics. It features various charts and statistics related to land activity, subdivisions, and population changes.",
+  "requestFramePermissions": []
+}
